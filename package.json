@@ -1,5 +1,5 @@
 {
-  "name": "eslint-loader-error",
+  "name": "eslint-ts-loader-error",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
